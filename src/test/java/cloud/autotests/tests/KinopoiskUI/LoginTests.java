@@ -1,4 +1,4 @@
-package cloud.autotests.tests.demowebshop;
+package cloud.autotests.tests.KinopoiskUI;
 
 import cloud.autotests.config.demowebshop.App;
 import cloud.autotests.helpers.AllureRestAssuredFilter;
